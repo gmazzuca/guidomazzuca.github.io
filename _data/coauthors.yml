@@ -1,98 +1,65 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Gkogkou, Aikaterini":
+  url: https://scholar.google.com/citations?user=0gZa-voAAAAJ&hl=el
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"McLaughlin, Kenneth":
+  url: https://sse.tulane.edu/math/faculty/mclaughlin
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"McLaughlin, Kenneth T.-R.":
+  url: https://sse.tulane.edu/math/faculty/mclaughlin
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"McLaughlin, Kenneth D. T.-R.":
+  url: https://sse.tulane.edu/math/faculty/mclaughlin
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"McLaughlin, Ken":
+  url: https://sse.tulane.edu/math/faculty/mclaughlin
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Mémin, Ronan":
+  url: https://memin.perso.math.cnrs.fr/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Grava, Tamara":
+  url: https://people.sissa.it/~grava/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Kriecherbauer, Thomas":
+  url: https://www.diffgleichg.uni-bayreuth.de/en/team/prof-thomas-kriecherbauer/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Mendl, Christian B.":
+  url: https://christian.mendl.net/
 
-"girotti":
-  - firstname: ["M.", "M."]
-    url: ""
+"Spohn, Herbert":
+  url: https://www.professoren.tum.de/en/spohn-herbert
 
-"grava":
-  - firstname: ["Tamara"]
-    url: "https://www.sissa.it/en/staff/tamara-grava"
+"Gisonni, Massimo":
+  url: https://www.sissa.it/~gisonni/
 
-"jenkins":
-  - firstname: ["R.", "R."]
-    url: ""
+"Gubbiotti, Giorgio":
+  url: https://www.unimi.it/en/ugov/person/giorgio-gubbiotti
 
-"mclaughlin":
-  - firstname: ["Kenneth", "K."]
-    url: "https://sites.duke.edu/mclaughlin/"
+"Forrester, Peter J.":
+  url: https://findanexpert.unimelb.edu.au/profile/13298-peter-forrester
 
-"yattselev":
-  - firstname: ["M."]
-    url: ""
+"Maspero, Alberto":
+  url: https://www.sissa.it/~maspero/
 
-"gkogkou":
-  - firstname: ["A.", "Alexandra"]
-    url: ""
+"Ponno, Antonio":
+  url: https://people.sissa.it/~amaspero/index.html
 
-"occelli":
-  - firstname: ["A.", "A."]
-    url: ""
+"Husson, Jonathan":
+  url: https://sites.google.com/umich.edu/jonathanhusson/home
 
-"husson":
-  - firstname: ["J.", "J."]
-    url: ""
+"Occelli, Alessandra":
+  url: https://sites.google.com/view/alessandraoccelli/home
 
-"gisonni":
-  - firstname: ["M.", "M."]
-    url: ""
+"Girotti, Manuela":
+  url: https://mathemanu.github.io/
 
-"gubbiotti":
-  - firstname: ["G.", "G."]
-    url: ""
+"Jenkins, Robert":
+  url: https://scholar.google.com/citations?user=W8YdvQcAAAAJ&hl=en
 
-"memin":
-  - firstname: ["R.", "R."]
-    url: ""
+"Yattselev, Maxim":
+  url: https://science.indianapolis.iu.edu/people-directory/people/yattselev-maxim.html
 
-"forrester":
-  - firstname: ["P. J.", "Peter"]
-    url: "https://en.wikipedia.org/wiki/P._J._Forrester"
+"Byun, Sung-Soo":
+  url: https://sites.google.com/view/sungsoobyun
 
-"piorkowski":
-  - firstname: ["M.", "M."]
-    url: ""
-
-"ofner":
-  - firstname: ["D.", "D."]
-    url: ""
-
-"byun":
-  - firstname: ["S.", "S."]
-    url: ""
-
-"jung":
-  - firstname: ["Y.", "Y."]
-    url: ""
+"Jung, Yeong-Gwang":
+  url: https://y-gjung.github.io/
