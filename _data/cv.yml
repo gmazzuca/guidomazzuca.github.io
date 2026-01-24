@@ -59,30 +59,35 @@ cv:
         end_date: Present
         summary: Organizer for BATS and GIST math outreach programs.
 
-    Publications:
-      - title: Generilized Hydrodynamics of the Toda lattice
+    Selected Publications:
+      - title: Adiabatic invariants for the FPUT and Toda chain in the thermodynamic limit.
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Guido Mazzuca
+          - Tamara Grava
+          - Alberto Maspero
+          - Antonio Ponno
+        publisher: Communications in Mathematical Physics
+        releaseDate: 2023
+        url: https://doi.org/10.1007/s00220-020-03866-2
+        summary: We study the periodic Fermi-Pasta-Ulam-Tsingou system as a perturbation of the periodic Toda lattice equations. Exploiting this idea, we show that the Toda integral of motions are adiabatic invariants for the Fermi-Pasta-Ulam-Tsingou system in the thermodynamic limit. This result holds in probability with respect to the Gibbs measure of the system.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Generalized Gibbs ensemble of the Ablowitz-Ladik lattice, circular beta-ensemble and double confluent Heun equation
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Guido Mazzuca
+          - Ronan Mémin
+        publisher: Annales Henri Poincaré
+        releaseDate: 2024
+        url: https://doi.org/10.1007/s00023-024-01435-0
+        summary: In this paper, we prove a polynomial Central Limit Theorem for several integrable models, and for the β ensembles at high-temperature with polynomial potential. Furthermore, we are able to relate the mean values, the variances and the correlations of the moments of these integrable systems with one of the β ensembles. Moreover, we show that for several integrable models, the local functions' space-correlations decay exponentially fast.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Generalized Gibbs ensemble of the Ablowitz-Ladik lattice, circular beta-ensemble and double confluent Heun equation
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Guido Mazzuca
+          - Tamara Grava
+        publisher: Communications in Mathematical Physics
+        releaseDate: 2023
+        url: https://doi.org/10.1007/s00220-023-04642-8
+        summary: We consider the discrete defocusing nonlinear Schrödinger equation in its integrable version, which is called defocusing Ablowitz-Ladik lattice. We consider initial data sample according to the Generalized Gibbs ensemble for this lattice with periodic boundary conditions with period N. In this setting, the Lax matrix of the Ablowitz-Ladik lattice is a random CMV-periodic matrix, and it is related to the Killip-Nenciu circular β-ensemble at high-temperature. Furthermore, we obtain the generalized free energy of the Ablowitz-Ladik lattice and the density of states of the random Lax matrix by establishing a mapping to the one-dimensional log-gas. For the Gibbs measure related to the Hamiltonian of the Ablowitz-Ladik flow, we obtain the density of states via a particular solution of the double-confluent Heun equation.
 
     Skills:
       - name: Mathematics
@@ -121,11 +126,11 @@ cv:
 
     References:
       - name: Professor Tamara Grava
-        icon: fa-solid fa-laptop
+        icon: fa-solid fa-chalkboard-user
         reference: PhD Advisor. SISSA - Scuola Internazionale Superiore di Studi Avanzati.
 
       - name: Professor Alberto Maspero
-        icon: fa-solid fa-laptop
+        icon: fa-solid fa-chalkboard-user
         reference: PhD Advisor. SISSA - Scuola Internazionale Superiore di Studi Avanzati.
 
       - name: Professor Ken McLaughlin
