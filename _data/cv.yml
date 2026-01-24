@@ -101,7 +101,7 @@ cv:
 
       - name: English
         summary: "Fluent"
-      
+
       - name: Spanish
         summary: "Basic knowledge"
 
@@ -119,7 +119,6 @@ cv:
         start_date: 2017-01-01
         end_date: Present
 
-
     References:
       - name: Professor Tamara Grava
         icon: fa-solid fa-laptop
@@ -132,7 +131,7 @@ cv:
       - name: Professor Ken McLaughlin
         icon: fa-solid fa-chalkboard-user
         reference: Postdoctoral Mentor. Tulane University.
-      
+
       - name: Professor Herbert Spohn
         icon: fa-solid fa-chalkboard-user
         reference: Collaborator.
