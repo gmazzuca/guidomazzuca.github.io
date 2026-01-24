@@ -1,77 +1,35 @@
 # filepath: /Users/gmazzuca/Documents/GitHub/gmazzuca.github.io/_data/coauthors.yml
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"gkogkou":
-  - firstname: ["Aikaterini"]
-    url: https://scholar.google.com/citations?user=0gZa-voAAAAJ&hl=el
+"podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"mclaughlin":
-  - firstname: ["Kenneth", "Ken", "Kenneth T.-R.", "Kenneth D. T.-R."]
-    url: https://sse.tulane.edu/math/faculty/mclaughlin
+"rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"memin":
-  - firstname: ["Ronan"]
-    url: https://memin.perso.math.cnrs.fr/
+"bach":
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"grava":
-  - firstname: ["Tamara"]
-    url: https://people.sissa.it/~grava/
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"kriecherbauer":
-  - firstname: ["Thomas"]
-    url: https://www.diffgleichg.uni-bayreuth.de/en/team/prof-thomas-kriecherbauer/
+"przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"mendl":
-  - firstname: ["Christian B.", "Christian"]
-    url: https://christian.mendl.net/
+"schrodinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"spohn":
-  - firstname: ["Herbert"]
-    url: https://www.professoren.tum.de/en/spohn-herbert
+"lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-"gisonni":
-  - firstname: ["Massimo"]
-    url: https://www.sissa.it/~gisonni/
-
-"gubbiotti":
-  - firstname: ["Giorgio"]
-    url: https://www.unimi.it/en/ugov/person/giorgio-gubbiotti
-
-"forrester":
-  - firstname: ["Peter J.", "Peter"]
-    url: https://findanexpert.unimelb.edu.au/profile/13298-peter-forrester
-
-"maspero":
-  - firstname: ["Alberto"]
-    url: https://www.sissa.it/~maspero/
-
-"ponno":
-  - firstname: ["Antonio"]
-    url: https://people.sissa.it/~amaspero/index.html
-
-"husson":
-  - firstname: ["Jonathan"]
-    url: https://sites.google.com/umich.edu/jonathanhusson/home
-
-"occelli":
-  - firstname: ["Alessandra"]
-    url: https://sites.google.com/view/alessandraoccelli/home
-
-"girotti":
-  - firstname: ["Manuela"]
-    url: https://mathemanu.github.io/
-
-"jenkins":
-  - firstname: ["Robert"]
-    url: https://scholar.google.com/citations?user=W8YdvQcAAAAJ&hl=en
-
-"yattselev":
-  - firstname: ["Maxim"]
-    url: https://science.indianapolis.iu.edu/people-directory/people/yattselev-maxim.html
-
-"byun":
-  - firstname: ["Sung-Soo"]
-    url: https://sites.google.com/view/sungsoobyun
-
-"jung":
-  - firstname: ["Yeong-Gwang"]
-    url: https://y-gjung.github.io/
+"planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
