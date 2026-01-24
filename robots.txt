@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://guidomazzuca.github.io/sitemap.xml
+Sitemap: https://gmazzuca.github.io/sitemap.xml
