@@ -1,65 +1,75 @@
 "Gkogkou, Aikaterini":
-  url: https://scholar.google.com/citations?user=0gZa-voAAAAJ&hl=el
-
-"McLaughlin, Kenneth":
-  url: https://sse.tulane.edu/math/faculty/mclaughlin
+  name: "Aikaterini Gkogkou"
+  url: "https://scholar.google.com/citations?user=0gZa-voAAAAJ&hl=el"
 
 "McLaughlin, Kenneth T.-R.":
-  url: https://sse.tulane.edu/math/faculty/mclaughlin
-
-"McLaughlin, Kenneth D. T.-R.":
-  url: https://sse.tulane.edu/math/faculty/mclaughlin
-
-"McLaughlin, Ken":
-  url: https://sse.tulane.edu/math/faculty/mclaughlin
+  name: "Kenneth T.-R. McLaughlin"
+  url: "https://sse.tulane.edu/math/faculty/mclaughlin"
 
 "Mémin, Ronan":
-  url: https://memin.perso.math.cnrs.fr/
+  name: "Ronan Mémin"
+  url: "https://memin.perso.math.cnrs.fr/"
 
 "Grava, Tamara":
-  url: https://people.sissa.it/~grava/
+  name: "Tamara Grava"
+  url: "https://people.sissa.it/~grava/"
 
 "Kriecherbauer, Thomas":
-  url: https://www.diffgleichg.uni-bayreuth.de/en/team/prof-thomas-kriecherbauer/
+  name: "Thomas Kriecherbauer"
+  url: "https://www.diffgleichg.uni-bayreuth.de/en/team/prof-thomas-kriecherbauer/"
 
 "Mendl, Christian B.":
-  url: https://christian.mendl.net/
+  name: "Christian B. Mendl"
+  url: "https://christian.mendl.net/"
 
 "Spohn, Herbert":
-  url: https://www.professoren.tum.de/en/spohn-herbert
+  name: "Herbert Spohn"
+  url: "https://www.professoren.tum.de/en/spohn-herbert"
 
 "Gisonni, Massimo":
-  url: https://www.sissa.it/~gisonni/
+  name: "Massimo Gisonni"
+  url: "https://www.sissa.it/~gisonni/"
 
 "Gubbiotti, Giorgio":
-  url: https://www.unimi.it/en/ugov/person/giorgio-gubbiotti
+  name: "Giorgio Gubbiotti"
+  url: "https://www.unimi.it/en/ugov/person/giorgio-gubbiotti"
 
 "Forrester, Peter J.":
-  url: https://findanexpert.unimelb.edu.au/profile/13298-peter-forrester
+  name: "Peter J. Forrester"
+  url: "https://findanexpert.unimelb.edu.au/profile/13298-peter-forrester"
 
 "Maspero, Alberto":
-  url: https://www.sissa.it/~maspero/
+  name: "Alberto Maspero"
+  url: "https://www.sissa.it/~maspero/"
 
 "Ponno, Antonio":
-  url: https://people.sissa.it/~amaspero/index.html
+  name: "Antonio Ponno"
+  url: "https://people.sissa.it/~amaspero/index.html"
 
 "Husson, Jonathan":
-  url: https://sites.google.com/umich.edu/jonathanhusson/home
+  name: "Jonathan Husson"
+  url: "https://sites.google.com/umich.edu/jonathanhusson/home"
 
 "Occelli, Alessandra":
-  url: https://sites.google.com/view/alessandraoccelli/home
+  name: "Alessandra Occelli"
+  url: "https://sites.google.com/view/alessandraoccelli/home"
 
 "Girotti, Manuela":
-  url: https://mathemanu.github.io/
+  name: "Manuela Girotti"
+  url: "https://mathemanu.github.io/"
 
 "Jenkins, Robert":
-  url: https://scholar.google.com/citations?user=W8YdvQcAAAAJ&hl=en
+  name: "Robert Jenkins"
+  url: "https://scholar.google.com/citations?user=W8YdvQcAAAAJ&hl=en"
 
 "Yattselev, Maxim":
-  url: https://science.indianapolis.iu.edu/people-directory/people/yattselev-maxim.html
+  name: "Maxim Yattselev"
+  url: "https://science.indianapolis.iu.edu/people-directory/people/yattselev-maxim.html"
 
 "Byun, Sung-Soo":
-  url: https://sites.google.com/view/sungsoobyun
+  name: "Sung-Soo Byun"
+  url: "https://sites.google.com/view/sungsoobyun"
 
 "Jung, Yeong-Gwang":
-  url: https://y-gjung.github.io/
+  name: "Yeong-Gwang Jung"
+  url: "https://y-gjung.github.io/"
