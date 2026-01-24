@@ -35,7 +35,7 @@ cv:
         area: Mathematics
         studyType: Bachelor and Master's Degree
         start_date: 2012
-        end_date: 2017  
+        end_date: 2017
         score: 110/110 cum laude
 
     Experience:
@@ -59,7 +59,6 @@ cv:
         end_date: Present
         summary: Organizer for BATS and GIST math outreach programs.
 
-    
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
         authors:
