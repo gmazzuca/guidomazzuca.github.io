@@ -43,7 +43,7 @@ cv:
         position: Postdoctoral Researcher
         location: New Orleans, LA
         start_date: 2023
-        end_date: Present
+        end_date: present
 
       - company: KTH Royal Institute of Technology , Stockholm, Sweden
         position: Postdoctoral Researcher
@@ -56,7 +56,7 @@ cv:
         position: Organizer
         location: New Orleans, LA
         start_date: 2023
-        end_date: Present
+        end_date: present
         summary: Organizer for BATS and GIST math outreach programs.
 
     Publications:
