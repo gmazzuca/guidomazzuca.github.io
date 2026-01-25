@@ -398,8 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-new-website-is-almost-online",
-          title: 'My new website is (almost) online!',
+            },},{id: "news-my-paper-the-formation-of-a-soliton-gas-condensate-for-the-focusing-nonlinear-schrödinger-equation-with-a-gkogkou-and-k-mclaughlin-has-been-published-in-the-journal-of-nonlinear-waves-view-the-publication",
+          title: 'My paper The formation of a soliton gas condensate for the focusing nonlinear...',
+          description: "",
+          section: "News",},{id: "news-new-preprint-out-q-deformation-of-the-marchenko-pastur-law-joint-with-sung-soo-byun-and-yeong-gwang-jung-is-now-available-on-arxiv-we-investigate-the-limiting-spectral-distribution-for-the-q-laguerre-ensemble-read-the-preprint-here",
+          title: 'New preprint out! q-deformation of the Marchenko-Pastur law (joint with Sung-Soo Byun and...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
