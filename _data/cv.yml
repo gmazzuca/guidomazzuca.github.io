@@ -24,8 +24,8 @@ cv:
         url: https://www.sissa.it/
         area: Mathematics
         studyType: PhD
-        start_date: 2017
-        end_date: 2021
+        start_date: "2017"
+        end_date: "2021"
         score: ""
         courses: "Integrable Systems"
         mentor: Prof. Tamara Grava and Prof. Alberto Maspero
@@ -34,28 +34,28 @@ cv:
         location: Milan, Italy
         area: Mathematics
         studyType: Bachelor and Master's Degree
-        start_date: 2012
-        end_date: 2017
+        start_date: "2012"
+        end_date: "2017"
         score: 110/110 cum laude
 
     Experience:
       - company: Tulane University
         position: Postdoctoral Researcher
         location: New Orleans, LA
-        start_date: 2023
+        start_date: "2023"
         end_date: present
 
       - company: KTH Royal Institute of Technology , Stockholm, Sweden
         position: Postdoctoral Researcher
         location: Stockholm, Sweden
-        start_date: 2021
-        end_date: 2023
+        start_date: "2021"
+        end_date: "2023"
 
     Volunteer:
       - company: BATS and GIST
         position: Organizer
         location: New Orleans, LA
-        start_date: 2023
+        start_date: "2023"
         end_date: present
         summary: Organizer for BATS and GIST math outreach programs.
 
@@ -67,7 +67,7 @@ cv:
           - Alberto Maspero
           - Antonio Ponno
         publisher: Communications in Mathematical Physics
-        releaseDate: 2023
+        releaseDate: "2023"
         url: https://doi.org/10.1007/s00220-020-03866-2
         summary: We study the periodic Fermi-Pasta-Ulam-Tsingou system as a perturbation of the periodic Toda lattice equations. Exploiting this idea, we show that the Toda integral of motions are adiabatic invariants for the Fermi-Pasta-Ulam-Tsingou system in the thermodynamic limit. This result holds in probability with respect to the Gibbs measure of the system.
 
@@ -76,7 +76,7 @@ cv:
           - Guido Mazzuca
           - Ronan Mémin
         publisher: Annales Henri Poincaré
-        releaseDate: 2024
+        releaseDate: "2024"
         url: https://doi.org/10.1007/s00023-024-01435-0
         summary: In this paper, we prove a polynomial Central Limit Theorem for several integrable models, and for the β ensembles at high-temperature with polynomial potential. Furthermore, we are able to relate the mean values, the variances and the correlations of the moments of these integrable systems with one of the β ensembles. Moreover, we show that for several integrable models, the local functions' space-correlations decay exponentially fast.
 
@@ -85,7 +85,7 @@ cv:
           - Guido Mazzuca
           - Tamara Grava
         publisher: Communications in Mathematical Physics
-        releaseDate: 2023
+        releaseDate: "2023"
         url: https://doi.org/10.1007/s00220-023-04642-8
         summary: We consider the discrete defocusing nonlinear Schrödinger equation in its integrable version, which is called defocusing Ablowitz-Ladik lattice. We consider initial data sample according to the Generalized Gibbs ensemble for this lattice with periodic boundary conditions with period N. In this setting, the Lax matrix of the Ablowitz-Ladik lattice is a random CMV-periodic matrix, and it is related to the Killip-Nenciu circular β-ensemble at high-temperature. Furthermore, we obtain the generalized free energy of the Ablowitz-Ladik lattice and the density of states of the random Lax matrix by establishing a mapping to the one-dimensional log-gas. For the Gibbs measure related to the Hamiltonian of the Ablowitz-Ladik flow, we obtain the density of states via a particular solution of the double-confluent Heun equation.
 
