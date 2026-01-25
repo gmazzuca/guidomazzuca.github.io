@@ -27,7 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-
 I am a **Postdoctoral Researcher** in the Department of Mathematics at **Tulane University**, working with [Prof. Ken McLaughlin](https://sse.tulane.edu/kenneth-mclaughlin). My research lies at the intersection of **Integrable Systems** and **Random Matrix Theory**.
 
 Specifically, I investigate how **soliton gases** and **nonlinear lattices** (such as Toda and Volterra) behave over long periods when the initial data are **randomly** sampled. I tackle these problems using the **Riemann-Hilbert** approach and asymptotic analysis.
