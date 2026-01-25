@@ -27,9 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Postdoctoral Researcher** in the Department of Mathematics at **Tulane University**, working with [Prof. Ken McLaughlin](https://sse.tulane.edu/kenneth-mclaughlin). My research lies at the fascinating intersection of **Integrable Systems** and **Random Matrix Theory**.
 
-I am particularly interested in the "hydrodynamics" of mathematical physics—investigating how complex systems like **soliton gases** and **nonlinear lattices** (such as Toda and Volterra) behave over long periods. I tackle these problems using the **Riemann-Hilbert** approach and asymptotic analysis.
+I am a **Postdoctoral Researcher** in the Department of Mathematics at **Tulane University**, working with [Prof. Ken McLaughlin](https://sse.tulane.edu/kenneth-mclaughlin). My research lies at the intersection of **Integrable Systems** and **Random Matrix Theory**.
+
+Specifically, I investigate how **soliton gases** and **nonlinear lattices** (such as Toda and Volterra) behave over long periods when the initial data are **randomly** sampled. I tackle these problems using the **Riemann-Hilbert** approach and asymptotic analysis.
+
+Recently, I have expanded my research scope to explore **q-orthogonal polynomials** and the **Muttalib-Borodin ensemble**, with a focus on large deviations and q-deformations of classical laws (such as Marchenko-Pastur).
 
 Prior to moving to New Orleans, I earned my PhD from **SISSA** (Trieste, Italy) and held research positions at **KTH Royal Institute of Technology** (Stockholm) and the **Mittag-Leffler Institute**.
 
@@ -37,4 +40,4 @@ Prior to moving to New Orleans, I earned my PhD from **SISSA** (Trieste, Italy) 
 
 I believe mathematics should be seen, not just written. I created the YouTube channel **[MathyOwl](https://www.youtube.com/@MathyOwl)** to share visualizations and "cool" mathematical concepts with a broader audience.
 
-When I am not proving theorems or coding in Python, you will likely find me **climbing** 🧗, lifting weights, exploring new coffee shops, or traveling.
+When I am not proving theorems or coding in Python <i class="fab fa-python"></i> , you will likely find me **climbing** 🧗, lifting weights <i class="fas fa-dumbbell"></i>, exploring new coffee shops, or traveling.
