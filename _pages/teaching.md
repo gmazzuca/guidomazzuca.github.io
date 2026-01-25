@@ -27,8 +27,8 @@ This is an introductory course on complex analysis. We begin by introducing comp
 
 **Course Material:**
 
-- 📂 <a href="{{ '/assets/courses/complex/LectureNotes.pdf' | relative_url }}" download>Lecture Notes (PDF)</a> _(Last Update 01/25/2026)_
-- 📂 <a href="{{ '/assets/courses/complex/WorkSheet1.pdf' | relative_url }}" download>Work Sheets 1 (PDF)</a>
+- 📂 <a href="{{ '/assets/courses/complex/LectureNotes.pdf' | relative_url }}" download target="_blank">Lecture Notes (PDF)</a> _(Last Update 01/25/2026)_
+- 📂 <a href="{{ '/assets/courses/complex/WorkSheet1.pdf' | relative_url }}" download target="_blank">Work Sheets 1 (PDF)</a>
 
 ---
 
