@@ -39,17 +39,18 @@ cv:
         score: 110/110 cum laude
 
     Experience:
-      - company: KTH Royal Institute of Technology , Stockholm, Sweden
-        position: Postdoctoral Researcher
-        location: Stockholm, Sweden
-        start_date: 2021
-        end_date: 2023
 
       - company: Tulane University
         position: Postdoctoral Researcher
         location: New Orleans, LA
         start_date: 2023
         end_date: Present
+
+      - company: KTH Royal Institute of Technology , Stockholm, Sweden
+        position: Postdoctoral Researcher
+        location: Stockholm, Sweden
+        start_date: 2021
+        end_date: 2023
 
     Volunteer:
       - company: BATS and GIST
