@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Current and past courses taught at Tulane University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
