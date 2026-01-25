@@ -27,4 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Italian Mathematician. My main focuses in reasearch are the theory of integrable systems and random matrices.
+I am a **Postdoctoral Researcher** in the Department of Mathematics at **Tulane University**, working with [Prof. Ken McLaughlin](https://sse.tulane.edu/kenneth-mclaughlin). My research lies at the fascinating intersection of **Integrable Systems** and **Random Matrix Theory**.
+
+I am particularly interested in the "hydrodynamics" of mathematical physics—investigating how complex systems like **soliton gases** and **nonlinear lattices** (such as Toda and Volterra) behave over long periods. I tackle these problems using the **Riemann-Hilbert** approach and asymptotic analysis.
+
+Prior to moving to New Orleans, I earned my PhD from **SISSA** (Trieste, Italy) and held research positions at **KTH Royal Institute of Technology** (Stockholm) and the **Mittag-Leffler Institute**.
+
+### **Beyond the Blackboard**
+
+I believe mathematics should be seen, not just written. I created the YouTube channel **[MathyOwl](https://www.youtube.com/@MathyOwl)** to share visualizations and "cool" mathematical concepts with a broader audience.
+
+When I am not proving theorems or coding in Python, you will likely find me **climbing** 🧗, lifting weights, exploring new coffee shops, or traveling.
