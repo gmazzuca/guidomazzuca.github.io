@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Current and past courses taught at Tulane University.
 nav: true
 nav_order: 6
 calendar: true
@@ -11,16 +11,6 @@ calendar: true
 In this page you can access all the material for the courses that I tought in the past few years. In the upcoming event, you can see my office hours and the course schedule.
 
 {% include calendar.liquid calendar_id='30a3e3e7241d02c62e43f1081dc0c95fbadfa98ded349fed11ff08bf089b93b5@group.calendar.google.com' timezone='GMT-06:00 Central time - Chicago' %}
-
----
-
-layout: page
-title: Teaching
-permalink: /teaching/
-description: Current and past courses taught at Tulane University.
-nav: true
-nav_order: 6
-
 ---
 
 ### **Spring 2026: Complex Analysis**
@@ -38,8 +28,8 @@ This is an introductory course on complex analysis. We begin by introducing comp
 
 **Course Material:**
 
-- 📂 [Lecture Notes](assets/courses/complex/LectureNotes.pdf) _(Last Update 01/25/2026)_
-- 📂 [Work Sheets 1](assets/courses/complex/WorkSheet1.pdf)
+- 📂 <a href="{{ '/assets/courses/complex/LectureNotes.pdf' | relative_url }}" download>Lecture Notes (PDF)</a> _(Last Update 01/25/2026)_
+- 📂 <a href="{{ '/assets/courses/complex/WorkSheet1.pdf' | relative_url }}" download>Work Sheets 1 (PDF)</a>
 
 ---
 
