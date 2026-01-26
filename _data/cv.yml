@@ -4,11 +4,15 @@ cv:
   email: gmazzuca@tulane.edu
   location: New Orleans, LA
   image: ""
-  summary: An italian mathematician, with the passion for dissemination and magic tricks.
+  summary: I am a mathematician driven by the philosophy that mathematics should be seen, not just written. While my research tackles the rigorous intersection of Integrable Systems and Random Matrix Theory, my passion extends equally to education and community outreach. From visualizing complex concepts on my YouTube channel MathyOwl to organizing student programs like BATS and GIST, I am dedicated to bridging the gap between advanced research and accessible education.
 
   social_networks:
     - network: GitHub
       username: gmazzuca
+    - network: YouTube
+      username: MathyOwl
+    - network: ORCID
+      username: 0000-0002-9795-6652
 
   address:
     street: 6823 St Charles Ave
